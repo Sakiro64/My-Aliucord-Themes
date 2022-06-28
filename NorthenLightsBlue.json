@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Northern Lights (Blue) Theme",
+        "author": "Sakiro#6328",
+        "license": "CEA"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/940678530197491775\/991106087631736832\/images.jpeg-34.jpg",
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/991347249365913750\/Soft_Elegance.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1725796685,
+        "accent": -14520653,
+        "mention_highlight": 638794848,
+        "background_secondary": 525046741,
+        "background": 388464333
+    },
+    "colors": {
+        "brand": -11824171,
+        "primary_dark_400": -246705195,
+        "primary_dark_360": -1421110315,
+        "uikit_btn_compound_color_selector_dark": -11824171,
+        "primary_dark_300": -246705195,
+        "uikit_btn_compound_color_selector_light": -1723100203,
+        "uikit_settings_item_text_color_dark": -246705195,
+        "uikit_settings_item_text_color_light": -1723100203,
+        "abc_tint_switch_track": -1608024371,
+        "link": -7227431,
+        "link_500": -5912086,
+        "primary_dark_200": -9459234,
+        "white_500": -1,
+        "brand_new_260": -9459234,
+        "status_yellow_500_alpha_10": -1205371187,
+        "status_yellow_500": -14188851,
+        "brand_500_alpha_20": 1848082125
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -246705195,
+        "ic_sidebar_notifications_off_dark_24dp": -242032468,
+        "ic_sidebar_pins_off_dark_24dp": -246705195,
+        "ic_sidebar_pins_on_dark_24dp": -246705195,
+        "ic_thread": -246705195
+    },
+    "raws": {}
+}
