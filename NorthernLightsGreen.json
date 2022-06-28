@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Northern Lights (Green) Theme",
         "author": "Sakiro#6328",
         "license": "CEA",
@@ -15,10 +15,11 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
     },
     "simple_colors": {
-        "active_channel": -1727108012,
+        "active_channel": -901858662,
         "accent": -15427723,
         "mention_highlight": 639085702,
-        "background_secondary": 370650246
+        "background_secondary": 253209734,
+        "background": 286764166
     },
     "colors": {
         "brand": -10172242,
