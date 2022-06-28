@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "name": "Northern Lights (Blue) Theme",
         "author": "Sakiro#6328",
-        "license": "CEA"
+        "license": "CEA",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/NorthenLightsBlue.json"
     },
     "background": {
         "overlay_alpha": 120,
