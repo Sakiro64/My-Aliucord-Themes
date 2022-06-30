@@ -12,7 +12,7 @@
         "url": "https:\/\/media.discordapp.net\/attachments\/940678530197491775\/992095995993280664\/904928.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/992126254331478117\/Arista2.0_Alternate_light.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/992133918377644032\/Raleway-Regular.ttf"
     },
     "simple_colors": {
         "active_channel": -884239403,
@@ -26,15 +26,15 @@
         "brand_new_500": -11824171,
         "primary_dark_400": -249401677,
         "primary_dark_360": -1418745378,
-        "uikit_btn_compound_color_selector_dark": -14188851,
+        "uikit_btn_compound_color_selector_dark": -11824171,
         "primary_dark_300": -246705195,
-        "uikit_btn_compound_color_selector_light": -1723100203,
-        "uikit_settings_item_text_color_dark": -246705195,
-        "uikit_settings_item_text_color_light": -1720735266,
+        "uikit_btn_compound_color_selector_light": -1720735266,
+        "uikit_settings_item_text_color_dark": -241975322,
+        "uikit_settings_item_text_color_light": -1718370330,
         "abc_tint_switch_track": -1595165561,
         "link": -11824171,
         "link_500": -11824171,
-        "primary_dark_200": -7094298,
+        "primary_dark_200": -9459234,
         "white_500": -1,
         "brand_500_alpha_10": 1880973210,
         "status_yellow_500_alpha_10": -1323143501,
