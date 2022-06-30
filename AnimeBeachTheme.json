@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "author": "Sakiro#6328",
         "license": "CEA",
-        "name": "Anime Beach Theme"
+        "name": "Anime Beach Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/AnimeBeachTheme.json"
     },
     "background": {
         "overlay_alpha": 120,
