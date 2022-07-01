@@ -24,21 +24,21 @@
     "colors": {
         "brand": -11824171,
         "brand_new_500": -11824171,
-        "primary_dark_400": -249401677,
-        "primary_dark_360": -1418745378,
+        "primary_dark_400": -239150864,
+        "primary_dark_360": -1413555984,
         "uikit_btn_compound_color_selector_dark": -11824171,
-        "primary_dark_300": -246705195,
+        "primary_dark_300": -244340258,
         "uikit_btn_compound_color_selector_light": -1720735266,
-        "uikit_settings_item_text_color_dark": -241975322,
-        "uikit_settings_item_text_color_light": -1718370330,
+        "uikit_settings_item_text_color_dark": -238428173,
+        "uikit_settings_item_text_color_light": -1723100203,
         "abc_tint_switch_track": -1595165561,
         "link": -11824171,
         "link_500": -11824171,
-        "primary_dark_200": -9459234,
+        "primary_dark_200": -4269840,
         "white_500": -1,
         "brand_500_alpha_10": 1880973210,
         "status_yellow_500_alpha_10": -1323143501,
-        "status_yellow_500": -11824171
+        "status_yellow_500": -9459234
     },
     "drawable_tints": {
         "ic_sidebar_notifications_on_dark_24dp": -246705195,
