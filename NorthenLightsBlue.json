@@ -16,15 +16,15 @@
     },
     "simple_colors": {
         "active_channel": -1725796685,
-        "accent": -14520653,
+        "accent": -9459234,
         "mention_highlight": 638794848,
-        "background_secondary": 525046741,
-        "background": 388464333
+        "background_secondary": 541823957,
+        "background": 354909901
     },
     "colors": {
         "brand": -11824171,
         "primary_dark_400": -246705195,
-        "primary_dark_360": -1421110315,
+        "primary_dark_360": -1418745378,
         "uikit_btn_compound_color_selector_dark": -11824171,
         "primary_dark_300": -246705195,
         "uikit_btn_compound_color_selector_light": -1723100203,
