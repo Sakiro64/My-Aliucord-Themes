@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "version": "1.0.2",
+        "name": "Gradient Blue Theme",
+        "author": "Sakiro#6328",
+        "license": "CIA",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/Gradient-Blue\/main\/GradientBlue.json"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "blur_radius": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/928018644749922394\/991040313193803886\/GradientBlue.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/992549013872181308\/Sary_Soft_Light.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1538550827,
+        "accent": -11824171,
+        "mention_highlight": 1059552973,
+        "background_secondary": 388464333,
+        "background": 388464333
+    },
+    "colors": {
+        "brand": -11824171,
+        "brand_new_500": -11824171,
+        "primary_dark_400": -244340258,
+        "primary_dark_360": -244340258,
+        "uikit_btn_compound_color_selector_dark": -11824171,
+        "primary_dark_300": -246705195,
+        "uikit_btn_compound_color_selector_light": -1725796685,
+        "uikit_settings_item_text_color_dark": -244340258,
+        "uikit_settings_item_text_color_light": -1723100203,
+        "abc_tint_switch_track": -1608356173,
+        "link": -14520653,
+        "link_500": -14520653,
+        "primary_dark_200": -9459234,
+        "white_500": -1,
+        "primary_dark_700": 455573197,
+        "brand_new_260": -9459234,
+        "status_yellow_500": -14188851,
+        "brand_500_alpha_20": -14520653,
+        "status_yellow_500_alpha_10": -14520653,
+        "primary_dark_260": -9459234
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -249069875,
+        "ic_sidebar_notifications_off_dark_24dp": -237606898,
+        "ic_sidebar_pins_off_dark_24dp": -249069875,
+        "ic_sidebar_pins_on_dark_24dp": -249401677,
+        "ic_thread": -246705195
+    },
+    "raws": {}
+}
