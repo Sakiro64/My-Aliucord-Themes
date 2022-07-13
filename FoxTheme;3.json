@@ -3,8 +3,8 @@
         "version": "1.0.0",
         "author": "Sakiro#6328",
         "license": "CEA",
-        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/AnimeBeachTheme.json",
-        "name": "Fox Theme"
+        "name": "Fox Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/FoxTheme%3B3.json"
     },
     "background": {
         "overlay_alpha": 120,
