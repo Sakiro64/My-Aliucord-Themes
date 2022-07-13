@@ -1,0 +1,52 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/AnimeBeachTheme.json",
+        "name": "Fox Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "blur_radius": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/940678530197491775\/996560984959361024\/3175622.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/992133918377644032\/Raleway-Regular.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -876913908,
+        "accent": -85681570,
+        "mention_highlight": 686070366,
+        "background_secondary": 636204167,
+        "background": 280942832
+    },
+    "colors": {
+        "brand": -2260682,
+        "brand_new_500": -1795490,
+        "primary_dark_400": -236743081,
+        "primary_dark_360": -1410616185,
+        "uikit_btn_compound_color_selector_dark": -1795490,
+        "primary_dark_300": -236676514,
+        "uikit_btn_compound_color_selector_light": -1713536714,
+        "uikit_settings_item_text_color_dark": -236676514,
+        "uikit_settings_item_text_color_light": -1713536714,
+        "abc_tint_switch_track": -1595631010,
+        "link": -1795490,
+        "link_500": -1795490,
+        "primary_dark_200": -798025,
+        "white_500": -1,
+        "brand_500_alpha_10": 1894029918,
+        "status_yellow_500_alpha_10": -1310883530,
+        "status_yellow_500": -2260682,
+        "brand_new_260": -1795490
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -237141706,
+        "ic_sidebar_notifications_off_dark_24dp": -249401677,
+        "ic_sidebar_pins_off_dark_24dp": -237141706,
+        "ic_sidebar_pins_on_dark_24dp": -237141706,
+        "ic_thread": -237141706
+    },
+    "raws": {}
+}
