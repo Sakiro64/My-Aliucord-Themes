@@ -15,7 +15,7 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/996884689686102177\/VarelaRound-Regular.ttf"
     },
     "simple_colors": {
-        "active_channel": -876913908,
+        "active_channel": -874675914,
         "accent": -85681570,
         "mention_highlight": 686070366,
         "background_secondary": 636204167,
@@ -30,7 +30,7 @@
         "primary_dark_300": -236676514,
         "uikit_btn_compound_color_selector_light": -1713536714,
         "uikit_settings_item_text_color_dark": -236676514,
-        "uikit_settings_item_text_color_light": -1713536714,
+        "uikit_settings_item_text_color_light": -1713071522,
         "abc_tint_switch_track": -1595631010,
         "link": -1795490,
         "link_500": -1795490,
@@ -38,7 +38,7 @@
         "white_500": -1,
         "brand_500_alpha_10": 1894029918,
         "status_yellow_500_alpha_10": -1310883530,
-        "status_yellow_500": -2260682,
+        "status_yellow_500": -1795490,
         "brand_new_260": -1795490,
         "primary_dark_800": 317969079
     },
