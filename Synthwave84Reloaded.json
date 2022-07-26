@@ -1,9 +1,10 @@
 {
     "manifest": {
         "version": "1.0.0",
-        "license": "MIT",
         "name": "Synthwave '84 Reloaded",
-        "author": "NotReallySakiro#6328 (Original by CelestialReaver#0001)"
+        "author": "NotReallySakiro#6328 (Original by CelestialReaver#0001)",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/main\/Synthwave84Reloaded.json",
+        "license": "CEA"
     },
     "background": {
         "overlay_alpha": 120,
