@@ -1,0 +1,49 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "license": "MIT",
+        "name": "Synthwave '84 Reloaded",
+        "author": "NotReallySakiro#6328 (Original by CelestialReaver#0001)"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/940678530197491775\/1001590004541305012\/vapor1658867652648.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/1001613853261574174\/Neon.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1104535239,
+        "accent": -10805130,
+        "mention_highlight": 651324880,
+        "background": 371465007,
+        "background_secondary": 248217762,
+        "statusbar": -14016199,
+        "input_background": -14016199
+    },
+    "colors": {
+        "brand": -5407038,
+        "brand_new_500": -8110684,
+        "primary_dark_400": -234881280,
+        "primary_dark_360": -1411075072,
+        "uikit_btn_compound_color_selector_dark": -10277253,
+        "primary_dark_300": -241672781,
+        "uikit_btn_compound_color_selector_light": -1718457692,
+        "uikit_settings_item_text_color_dark": -242991708,
+        "uikit_settings_item_text_color_light": -1720302195,
+        "abc_tint_switch_track": -1593857536,
+        "link": -5756316,
+        "link_500": -8126404,
+        "primary_dark_200": -6988613,
+        "white_500": -1,
+        "primary_dark_330": -4565629
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -241672781,
+        "ic_sidebar_notifications_off_dark_24dp": -251625217,
+        "ic_sidebar_pins_off_dark_24dp": -241672781,
+        "ic_sidebar_pins_on_dark_24dp": -241672781,
+        "ic_thread": -241672781
+    },
+    "raws": {}
+}
