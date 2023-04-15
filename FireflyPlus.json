@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Firefly+"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1093597087872069702\/Minimalist-Wallpaper-Background-1.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1508267401,
+        "accent": -455245514,
+        "mention_highlight": 652225131,
+        "background_secondary": 199996551,
+        "background": 132131435
+    },
+    "colors": {
+        "brand": -2206131,
+        "brand_new_500": -2673622,
+        "primary_dark_400": -240944191,
+        "primary_dark_360": -672770679,
+        "uikit_btn_compound_color_selector_dark": -4259772,
+        "primary_dark_300": -237141706,
+        "uikit_btn_compound_color_selector_light": -1713362325,
+        "uikit_settings_item_text_color_dark": -240032020,
+        "uikit_settings_item_text_color_light": -1712958071,
+        "abc_tint_switch_track": -1595639695,
+        "link": -1682039,
+        "link_500": -1749628,
+        "primary_dark_200": -2564386,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -236967317,
+        "ic_sidebar_notifications_off_dark_24dp": -205586364,
+        "ic_sidebar_pins_off_dark_24dp": -241672781,
+        "ic_sidebar_pins_on_dark_24dp": -236563063,
+        "ic_thread": -1092605333
+    },
+    "raws": {}
+}
