@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "version": "1.1.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Chroma Glow"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1114288940241932441\/4wX8JGet.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1712914433,
+        "accent": -791306,
+        "mention_highlight": 369623295,
+        "background": 50331648,
+        "background_secondary": 469762048
+    },
+    "colors": {
+        "brand": -727365425,
+        "brand_new_500": -744008240,
+        "primary_dark_400": -249985556,
+        "primary_dark_360": -1409681409,
+        "uikit_btn_compound_color_selector_dark": -479221282,
+        "primary_dark_300": -234881025,
+        "uikit_btn_compound_color_selector_light": -1534837340,
+        "uikit_settings_item_text_color_dark": -9261313,
+        "uikit_settings_item_text_color_light": -546330146,
+        "abc_tint_switch_track": -1602124151,
+        "primary_dark_200": -1,
+        "white_500": -1,
+        "link": -13798460
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -234881025,
+        "ic_sidebar_notifications_off_dark_24dp": -234946560,
+        "ic_sidebar_pins_off_dark_24dp": -234881025,
+        "ic_sidebar_pins_on_dark_24dp": -234881025,
+        "ic_thread": -234881025
+    },
+    "raws": {}
+}
