@@ -9,7 +9,9 @@
         "overlay_alpha": 120,
         "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1090367495648575608\/6331394.jpg"
     },
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
+    },
     "simple_colors": {
         "active_channel": -1712958071,
         "accent": -192660060,
