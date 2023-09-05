@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Northern Lights (Purple) Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1147273378365968465\/Livevapor1693596446341.gif"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1724379526,
+        "accent": -8308029,
+        "mention_highlight": 553650687,
+        "background": 186323951,
+        "background_secondary": 192090356
+    },
+    "colors": {
+        "brand": -12320513,
+        "brand_new_500": -13500161,
+        "primary_dark_400": -684453154,
+        "primary_dark_360": -228380678,
+        "uikit_btn_compound_color_selector_dark": -482082561,
+        "primary_dark_300": -128178441,
+        "uikit_btn_compound_color_selector_light": -1081791250,
+        "uikit_settings_item_text_color_dark": -6720263,
+        "uikit_settings_item_text_color_light": -1723129360,
+        "abc_tint_switch_track": -1608710761,
+        "link": -161802532,
+        "link_500": -179035700,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -12320513,
+        "ic_sidebar_notifications_off_dark_24dp": -13893465,
+        "ic_sidebar_pins_off_dark_24dp": -12320513,
+        "ic_sidebar_pins_on_dark_24dp": -12320513,
+        "ic_thread": -465305345
+    },
+    "raws": {}
+}
