@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Windows 98 Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1166338073676742686\/vapor1693573181232.png?ex=654a1ffa&is=6537aafa&"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1171104854198976643\/MS_Sans_Serif_Bold.ttf?ex=655b7763&is=65490263&hm"
+    },
+    "simple_colors": {
+        "active_channel": -1184920356,
+        "accent": -482441509,
+        "mention_highlight": 639994082,
+        "background": 0,
+        "background_secondary": 0
+    },
+    "colors": {
+        "brand": -13464363,
+        "brand_new_500": -10312743,
+        "primary_dark_400": -214003986,
+        "primary_dark_360": -131825427,
+        "uikit_btn_compound_color_selector_dark": -802937416,
+        "primary_dark_300": -183082790,
+        "uikit_btn_compound_color_selector_light": -1020037180,
+        "uikit_settings_item_text_color_dark": -246574621,
+        "uikit_settings_item_text_color_light": -901687332,
+        "abc_tint_switch_track": -1608953728,
+        "link": -601327416,
+        "link_500": -601327416,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -236404694,
+        "ic_sidebar_notifications_off_dark_24dp": -522250216,
+        "ic_sidebar_pins_off_dark_24dp": -249009479,
+        "ic_sidebar_pins_on_dark_24dp": -249009479,
+        "ic_thread": -583180854
+    },
+    "raws": {}
+}
