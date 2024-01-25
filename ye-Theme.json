@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Ye Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1197670663033466960\/WallpaperDog-17205054.jpg?ex=65bc1cb9&is=65a9a7"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1977833094,
+        "accent": -1490629291,
+        "mention_highlight": 824228919,
+        "background": 3531670,
+        "background_secondary": 86830713
+    },
+    "colors": {
+        "brand": -635060126,
+        "brand_new_500": -1023344778,
+        "primary_dark_400": -669458859,
+        "primary_dark_360": -1105083062,
+        "uikit_btn_compound_color_selector_dark": -366357453,
+        "primary_dark_300": -1087519913,
+        "uikit_btn_compound_color_selector_light": -1356210046,
+        "uikit_settings_item_text_color_dark": -248786364,
+        "uikit_settings_item_text_color_light": -970558494,
+        "abc_tint_switch_track": -2042056674,
+        "link": -654246050,
+        "link_500": -749994240,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -482943662,
+        "ic_sidebar_notifications_off_dark_24dp": -1103503457,
+        "ic_sidebar_pins_off_dark_24dp": -1100226759,
+        "ic_sidebar_pins_on_dark_24dp": -482943662,
+        "ic_thread": -247605915
+    },
+    "raws": {}
+}
