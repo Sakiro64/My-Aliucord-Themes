@@ -1,2 +1,3 @@
-Hello ig, this is where you can find the shitty themes.
-Ik they are shitty lol but at least i tried afs
+Hewwooooooooo, this repo is where you can find my awesome cool themes! x3
+
+Always hoping to get better with each theme i do hehe, don't expect the greatest themws ever done, but at least it's something :P
