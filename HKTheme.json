@@ -12,23 +12,23 @@
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": 1493775709,
+        "active_channel": -1978894115,
         "accent": -467178291,
         "mention_highlight": 637681285,
-        "background_secondary": 187462297,
-        "background": 119090080
+        "background_secondary": 185361300,
+        "background": 118575773
     },
     "colors": {
-        "brand": -15244893,
+        "brand": -15506775,
         "brand_new_500": -13989417,
-        "primary_dark_400": -1089046059,
+        "primary_dark_400": -1088791912,
         "primary_dark_360": -670077752,
         "uikit_btn_compound_color_selector_dark": -16740921,
         "primary_dark_300": -251043898,
         "uikit_btn_compound_color_selector_light": -1726452538,
-        "uikit_settings_item_text_color_dark": -653825412,
+        "uikit_settings_item_text_color_dark": -653606935,
         "uikit_settings_item_text_color_light": -1727043924,
-        "abc_tint_switch_track": -1607567707,
+        "abc_tint_switch_track": -1607762510,
         "link": -12611880,
         "link_500": -12745754,
         "primary_dark_200": -2564386,
@@ -39,7 +39,7 @@
         "ic_sidebar_notifications_off_dark_24dp": -217891471,
         "ic_sidebar_pins_off_dark_24dp": -250449708,
         "ic_sidebar_pins_on_dark_24dp": -250449708,
-        "ic_thread": -1092605333
+        "ic_thread": -1105565778
     },
     "raws": {}
 }
