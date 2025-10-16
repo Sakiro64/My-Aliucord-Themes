@@ -10,9 +10,11 @@
         "url": "https:\/\/raw.githubusercontent.com\/Sakiro64\/Separated-fonts-and-sounds-for-my-themes\/refs\/heads\/main\/HK_BG.jpg",
         "blur_radius": 2
     },
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/Sakiro64\/Separated-fonts-and-sounds-for-my-themes\/raw\/refs\/heads\/main\/Romanica.ttf"
+    },
     "simple_colors": {
-        "active_channel": -1978894115,
+        "active_channel": -1977123123,
         "accent": -467178291,
         "mention_highlight": 637681285,
         "background_secondary": 185361300,
@@ -39,7 +41,9 @@
         "ic_sidebar_notifications_off_dark_24dp": -217891471,
         "ic_sidebar_pins_off_dark_24dp": -250449708,
         "ic_sidebar_pins_on_dark_24dp": -250449708,
-        "ic_thread": -1105565778
+        "ic_thread": -1105565778,
+        "drawable_overlay_channels_selected_dark": 385931492,
+        "drawable_overlay_channels_dark": 622031278
     },
     "raws": {}
 }
