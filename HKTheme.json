@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "author": "Sakiro64",
         "license": "CEA",
-        "name": "Hollow Knight Theme"
+        "name": "Hollow Knight Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/Sakiro64\/My-Aliucord-Themes\/refs\/heads\/main\/HKTheme.json"
     },
     "background": {
         "overlay_alpha": 120,
