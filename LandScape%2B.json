@@ -1,0 +1,48 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "LandScape+"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/github.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/blob\/main\/LandScapePlusBG.jpeg?raw=true"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1712958071,
+        "accent": -192660060,
+        "mention_highlight": 472018611,
+        "background": 25443748,
+        "background_secondary": 187137741
+    },
+    "colors": {
+        "brand": -15290238,
+        "brand_new_500": -15817352,
+        "primary_dark_400": -726901258,
+        "primary_dark_360": -242929962,
+        "uikit_btn_compound_color_selector_dark": -13969510,
+        "primary_dark_300": -240536138,
+        "uikit_btn_compound_color_selector_light": -1279513051,
+        "uikit_settings_item_text_color_dark": -242208792,
+        "uikit_settings_item_text_color_light": -370780791,
+        "abc_tint_switch_track": -1321243243,
+        "link": -16711759,
+        "link_500": -16006776,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -622843285,
+        "ic_sidebar_notifications_off_dark_24dp": -246650762,
+        "ic_sidebar_pins_off_dark_24dp": -536908032,
+        "ic_sidebar_pins_on_dark_24dp": -438413747,
+        "ic_thread": -552506026,
+        "drawable_overlay_channels_selected_dark": 852237916,
+        "drawable_overlay_channels_dark": 832836937
+    },
+    "raws": {}
+}
