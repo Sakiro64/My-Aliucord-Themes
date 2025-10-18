@@ -40,7 +40,9 @@
         "ic_sidebar_notifications_off_dark_24dp": -246650762,
         "ic_sidebar_pins_off_dark_24dp": -536908032,
         "ic_sidebar_pins_on_dark_24dp": -438413747,
-        "ic_thread": -552506026
+        "ic_thread": -552506026,
+        "drawable_overlay_channels_selected_dark": 852237916,
+        "drawable_overlay_channels_dark": 832836937
     },
     "raws": {}
 }
