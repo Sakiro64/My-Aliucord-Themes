@@ -8,8 +8,8 @@
     },
     "background": {
         "overlay_alpha": 120,
-        "url": "https:\/\/raw.githubusercontent.com\/Sakiro64\/Separated-fonts-and-sounds-for-my-themes\/refs\/heads\/main\/HK_BG.jpg",
-        "blur_radius": 2
+        "url": "https:\/\/raw.githubusercontent.com\/Sakiro64\/My-Aliucord-Themes\/refs\/heads\/main\/d63fac6c56c435f14951a4aff0736107.jpg",
+        "blur_radius": 1
     },
     "fonts": {
         "*": "https:\/\/github.com\/Sakiro64\/Separated-fonts-and-sounds-for-my-themes\/raw\/refs\/heads\/main\/Romanica.ttf"
